@@ -24,6 +24,8 @@ Best to do both, if you can
 
 -   **Ask/answer/discuss questions or clarify concepts**    
 -   **Great** **options for people whose schedules or time zones unfortunately don't match up with our Wed at 9AM.**
+-   **Discord SR channel invite link here: https://discord.gg/UqddWFT8**
+  - **Watch this [video tutorial on how to get access to the channel using the link above](https://youtu.be/exKEvnDXQ34)**
 
 # SCHEDULE OF TOPICS
 
