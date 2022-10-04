@@ -80,9 +80,9 @@ Lecture playlist on Youtube: [Statistical Rethinking 2022](https://www.youtube.c
 
 We are using the 2nd edition of, \<[Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)\>. This edition **is a major update** I do not reccommend the first edition (as it is missing key content).
 
-You will have to find a way to get this book. Check your library, many have subscriptions to the official electronic version. Purchasing a copy **of the second edition** is a *really good idea* if you can at all afford it. If your resources are limited such that you wouldn't be able to participate, you *might* consider asking someone in the community about a temporary pdf to use until you're able to purchase. Richard McElreath has been incredibly generous in making all of these materials free of charge. It's a simple and not particularly large of sum of money^* to say 'thank you' with.
+You will have to find a way to get this book. Check your library, many have subscriptions to the official electronic version. Purchasing a copy **of the second edition** is a *really good idea* if you can at all afford it. If your resources are limited such that you wouldn't be able to participate, you *might* consider asking someone in the community about a temporary pdf to use until you're able to purchase. Richard McElreath has been incredibly generous in making all of these materials free of charge. It's a simple and not particularly large of sum of money<sup>*</sup> to say 'thank you' with.
 
-At the same time, we are an international and inter-class group, your situation may be such that purchasing a copy *is* a big deal, my encouragement to support McElreath is not directed at you. We support you and want you to be here!
+<sup>*</sup>We are and inter-class and international community. Your situation may be such that purchasing a copy *is* a big deal; if so, my encouragement to support McElreath financially is not directed at you. We support you and want you to be here!
 
 # Unaltered Guidance from McElreath's Original Repo
 
