@@ -6,9 +6,9 @@
 
 ### Accountability \* Support \* Community
 
-**Lectures:** All recorded lectures hosted on YouTube <[Playlist](https://www.youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN)> **note we are departing from the original 10 week format** (see schedule below).
+**Lectures:** All recorded lectures hosted on YouTube [Playlist](https://www.youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN) **note we are departing from the original 10 week format ([see schedule](https://github.com/mruderman/Rethinking-Fall-22-Group-Audit/blob/main/README.md#schedule-of-topics)).
 
-Discussion: Online weekly zoom meetings (info below) and 24/7 rolling live or asynchronous discussion on the #statisticalrethinking channel hosted on the University of Bayes Discord server.
+**Discussion:** Online weekly zoom meetings (info below) and 24/7 rolling live or asynchronous discussion on the #statisticalrethinking channel hosted on the University of Bayes Discord server.
 
 ### COURSE OPTIONS
 
@@ -31,7 +31,7 @@ Best to do both, if you can
 
 Please see this extended schedule below. Weekly problem sets are are discussed in Zoom meetings and Discord channel. We want you to come to meetings even if you couldn't finish the problem set for the week.
 
-Lecture playlist on Youtube: \<[Statistical Rethinking 2022](https://www.youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN)\>
+Lecture playlist on Youtube: [Statistical Rethinking 2022](https://www.youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN)
 
 | **Meet \#** |  **Date**  |  **Chapter**  |                                                                                                                                                                                                                           **Lectures**                                                                                                                                                                                                                           |
 |:---------------:|:----------------:|:----------------:|:------------------:|
